@@ -109,7 +109,7 @@ ul {
     line-height: 26px;
     color: #fff;
     text-decoration: none;
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
     padding: 11px 34.1px;
     display: inline-block;
     border-radius: 6px;
@@ -320,7 +320,7 @@ ul {
     Header Menu CSS
 =================== */
 .hoperaiser-header {
-    background-color: #161616;
+    background-color: #16231F;
     z-index: 2;
     position: relative;
     border-bottom: 1px solid #e8faf352;
@@ -361,7 +361,7 @@ ul {
     bottom: 0;
     width: 35%;
     height: 2px;
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
     -webkit-transition: all 0.6s ease-in-out;
     -o-transition: all 0.6s ease-in-out;
     transition: all 0.6s ease-in-out;
@@ -387,7 +387,7 @@ ul {
 }
 
 .hoperaiser-menu nav ul li a:hover, .hoperaiser-menu nav ul li.active a {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .hoperaiser-menu nav ul li.active a {
@@ -419,7 +419,7 @@ ul {
 }
 
 .hoperaiser-menu nav ul li .submenu li a {
-    color: #161616;
+    color: #16231F;
     padding: 5px 20px;
     display: inline-block;
     font-weight: 500;
@@ -513,7 +513,7 @@ ul {
 .hoperaiser-serach form:hover input {
     border: 1px solid #EEAA21;
     width: 240px;
-    background-color: #161616;
+    background-color: #16231F;
 }
 
 .hoperaiser-serach {
@@ -565,7 +565,7 @@ ul {
 }
 
 .hoperaiser-top-contact p a:hover, .hoperaiser-top-user a:hover, .hoperaiser-serach form button:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .hoperaiser-top-contact p span {
@@ -597,7 +597,7 @@ ul {
     Hero CSS
 =================== */
 .hero {
-    background-image: url(../images/photos/pic22.jpg);
+    background-image: url(../images/home/hero.png);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -615,7 +615,7 @@ ul {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: #161616;
+    background-color: #101B17;
     opacity: 0.9;
     z-index: -1;
 }
@@ -648,14 +648,13 @@ ul {
 }
 
 .btn-primary-c {
-    margin-top: 8px;
     font-size: 20px;
     font-weight: 600;
     line-height: 26px;
     color: #fff;
     text-decoration: none;
-    background-color: #705F3C;
-    padding: 10px 32px;
+    background-color: #1ECA8C;
+    padding: 14px 32px;
     display: inline-block;
     border-radius: 6px;
     -webkit-transition: all 0.4s ease-in-out;
@@ -664,9 +663,6 @@ ul {
     position: relative;
     z-index: 1;
     overflow: hidden;
-
-    /* border: 2px solid #EEAA21; */
-
 }
 
 .btn-primary-c:hover {
@@ -839,12 +835,12 @@ ul {
     bottom: 0;
     width: 100%;
     height: 50%;
-    background-color: #705F3C;
+    background-color: #223931;
     z-index: -1;
 }
 
 .single-offer {
-    padding: 25px 25px;
+    padding: 25px 35px;
     background-color: #fff;
     -webkit-box-shadow: 0px -12px 20px 0px rgba(179, 181, 191, 0.20);
             box-shadow: 0px -12px 20px 0px rgba(179, 181, 191, 0.20);
@@ -874,21 +870,21 @@ ul {
 }
 
 .icon-bg01 {
-    background-color: #EEAA21;
+    background-color: #163BFD;
 }
 
 .icon-bg02 {
-    background-color: #EEAA21;
+    background-color: #FB5A5A;
 }
 
 .icon-bg03 {
-    background-color: #EEAA21;
+    background-color: #13E298;
 }
 
 .single-offer h4 {
     font-size: 20px;
     font-weight: 600;
-    line-height: 22px;
+    line-height: 18px;
     color: #444B47;
     margin-bottom: 8px;
 }
@@ -924,7 +920,7 @@ ul {
 .single-offer a span svg {
     width: 20px;
     height: 20px;
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .single-offer a span {
@@ -956,7 +952,7 @@ ul {
 }
 
 .single-offer a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .shape-section2 img {
@@ -992,7 +988,7 @@ ul {
     font-size: 48px;
     font-weight: 600;
     line-height: 58px;
-    color: #705F3C;
+    color: #181D1A;
     margin-bottom: 0;
 }
 
@@ -1063,7 +1059,7 @@ ul {
 }
 
 .icon-object.icon-object01 {
-    background-color: #FFE8E0;
+    background-color: #F4EBFF;
 }
 
 .icon-object.icon-object02 {
@@ -1071,7 +1067,7 @@ ul {
 }
 
 .icon-object.icon-object03 {
-    background-color: #FFE8E0;
+    background-color: #E0EDF6;
 }
 
 .icon-object.icon-object04 {
@@ -1125,13 +1121,13 @@ ul {
             transform: translate(-50%, -50%);
     width: 80px;
     height: 80px;
-    border: 1px solid #EEAA21;
+    border: 1px solid #1ECA8C;
     border-radius: 50%;
     z-index: 1;
 }
 
 .play-video:hover {
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
 }
 
 .play-video a {
@@ -1162,10 +1158,10 @@ ul {
 }
 
 .heading-common h3 {
-    font-size: 35px;
-    font-weight: 500;
+    font-size: 20px;
+    font-weight: 400;
     line-height: normal;
-    color: #705F3C;
+    color: #EEAA21;
     text-transform: uppercase;
     margin-bottom: 6px;
     letter-spacing: 1px;
@@ -1173,7 +1169,7 @@ ul {
 
 .heading-common h2 {
     font-size: 48px;
-    color: #705F3C;
+    color: #181D1A;
     font-weight: 600;
     line-height: normal;
     margin-bottom: 14px;
@@ -1245,7 +1241,7 @@ ul {
 }
 
 .donation-progress-bar .progressbar {
-    background-color: #EEAA21 !important;
+    background-color: #1eca8c29 !important;
     height: 8px;
     width: 100%;
     border-radius: 8px !important;
@@ -1261,7 +1257,7 @@ ul {
     height: 8px !important;
     width: 10px;
     border-radius: 8px !important;
-    background-color: #EEAA21 !important;
+    background-color: #1ECA8C !important;
 }
 
 .donation-progress-bar .progressbar .percentCount {
@@ -1303,7 +1299,7 @@ ul {
 }
 
 .raise-donation h5 {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .goal h5 span, .raise-donation h5 span {
@@ -1315,7 +1311,7 @@ ul {
     text-decoration: none;
     text-align: center;
     color: #fff;
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
     font-size: 20px;
     font-weight: 600;
     line-height: 26px;
@@ -1425,7 +1421,7 @@ ul {
     transition: all 0.4s ease-in-out;
 }
 .single-member a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 .member-name {
     padding: 12px 12px;
@@ -1666,7 +1662,7 @@ ul {
 }
 
 .single-event a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .single-event p {
@@ -1693,7 +1689,7 @@ ul {
 .event-time p span svg, .event-location p span svg {
     width: 16px;
     height: 16px;
-    color: #EEAA21;
+    color: #1ECA8C;
     margin-top: -2px;
     position: absolute;
     left: 0;
@@ -1757,12 +1753,12 @@ ul {
     border-radius: 8px;
     -webkit-box-shadow: none;
             box-shadow: none;
-    background-color: #D7C195;
-    font-size: 20px;
+    background-color: #D0F1E5;
+    font-size: 24px;
     font-weight: 600;
-    line-height: 30px;
+    line-height: 38px;
     color: #181D1A;
-    /* padding: 22px 55px; */
+    padding: 22px 55px;
     -webkit-transition: 0.4s ease-in-out;
     -o-transition: 0.4s ease-in-out;
     transition: 0.4s ease-in-out;
@@ -1778,10 +1774,10 @@ ul {
 }
 
 .faq-area .accordion-button::after {
-    /* background-image: url(../images/icon-svg/plus.svg);
+    background-image: url(../images/icon-svg/plus.svg);
     background-size: 25px 25px;
     height: 25px;
-    width: 25px; */
+    width: 25px;
 }
 
 .faq-area .accordion-button:not(.collapsed)::after {
@@ -1888,7 +1884,7 @@ ul {
     margin-top: 45px;
 }
 
-.testimonial-slider .owl-dots .owl-dot.active::before {position: absolute;content: '';left: 50%;top: 50%;-webkit-transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);transform: translate(-50%, -50%);width: 10px;height: 10px;background-color: #EEAA21;border-radius: 50%;}
+.testimonial-slider .owl-dots .owl-dot.active::before {position: absolute;content: '';left: 50%;top: 50%;-webkit-transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);transform: translate(-50%, -50%);width: 10px;height: 10px;background-color: #1ECA8C;border-radius: 50%;}
 
 .testimonial-slider {
     padding-top: 35px;
@@ -1936,7 +1932,7 @@ ul {
     top: 17px;
     width: 20px;
     height: 20px;
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
     border-radius: 50%;
     border: 1px solid #fff;
 }
@@ -2081,7 +2077,7 @@ ul {
 }
 
 .post-user:hover a, .post-user:hover span, .post-category:hover a, .post-category:hover span {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .post-des-txt {
@@ -2108,7 +2104,7 @@ ul {
 .post-des-txt a {
     text-decoration: none;
     display: inline-block;
-    color: #EEAA21;
+    color: #1ECA8C;
     font-size: 16px;
     font-weight: 600;
     line-height: 22px;
@@ -2128,18 +2124,18 @@ ul {
     Footer V1 CSS
 ================= */
 .footer-v1 {
-    /* background-image: url(../images/home/footer-bg.png); */
+    background-image: url(../images/home/footer-bg.png);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    background-color: #4b4029;
+    background-color: #101B17;
     padding-top: 50px;
 }
 
 .footer-left p {
-    font-size: 18px;
+    font-size: 22px;
     font-weight: 400;
-    line-height: 22px;
+    line-height: normal;
     color: #E8FAF3;
     margin-bottom: 0;
 }
@@ -2160,9 +2156,9 @@ ul {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-    height: 38px;
-    width: 38px;
-    background-color: #D7C195;
+    height: 48px;
+    width: 48px;
+    background-color: #F4FFF9;
     border-radius: 50%;
     -webkit-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
@@ -2198,7 +2194,7 @@ ul {
 }
 
 .footer-left ul {
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 .footer-middle h3, .footer-right h3 {
@@ -2216,7 +2212,7 @@ ul {
     content: '';
     left: 0;
     bottom: -6px;
-    background-color: #EEAA21;
+    background-color: #1FAB71;
     width: 87px;
     height: 2px;
 }
@@ -2243,7 +2239,7 @@ ul {
 }
 
 .footer-middle ul li a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .footer-middle, .footer-right {
@@ -2288,7 +2284,7 @@ ul {
     font-size: 20px;
     line-height: 26px;
     font-weight: 500;
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
     border: none;
     padding: 10px 31.5px;
     border-radius: 6px;
@@ -2366,7 +2362,7 @@ ul {
     text-align: left;
     font-size: 14px;
     font-weight: 400;
-    line-height: 22px;
+    line-height: 14px;
     margin-bottom: 0;
 }
 
@@ -2397,7 +2393,7 @@ ul {
 }
 
 .footer-terms ul li a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 /* ===============
@@ -2433,7 +2429,7 @@ ul {
 }
 
 .hoperaiser-header-v2 .hoperaiser-menu nav ul li.active a, .hoperaiser-header-v2 .hoperaiser-menu nav ul li a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .hoperaiser-header-v2 .hoperaiser-serach form button {
@@ -2441,7 +2437,7 @@ ul {
 }
 
 .hoperaiser-header-v2 .hoperaiser-serach form button:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .hoperaiser-header-v2 .hoperaiser-serach form {
@@ -2453,7 +2449,7 @@ ul {
 }
 
 .hoperaiser-header-v2 .hoperaiser-menu nav ul li .submenu li a {
-    color: #161616;
+    color: #16231F;
 }
 
 .hoperaiser-header-v2 .hoperaiser-menu nav ul li .submenu li:hover a {
@@ -2784,7 +2780,6 @@ ul {
 ========================= */
 .about-us-v2 {
     padding-top: 55px;
-    padding-bottom: 120px;
 }
 
 .about-us-v2-right {
@@ -2913,13 +2908,13 @@ ul {
 ========================= */
 
 .video-v2-here {
-    /* background-image: url(../images/home/home-v2-video.png); */
+    background-image: url(../images/home/home-v2-video.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    /* background-color: #E8FAF3; */
+    background-color: #E8FAF3;
     border-radius: 16px;
-    height: 422px;
+    height: 622px;
     position: relative;
     z-index: 1;
 }
@@ -2960,7 +2955,7 @@ ul {
 }
 
 .video-v2-here a:hover, .hero-video-v3 a:hover {
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
 }
 
 .video-v2 {
@@ -2976,7 +2971,7 @@ ul {
     left: 0;
     width: 100%;
     height: 20%;
-    background-color: #D7C195;
+    background-color: #E8FAF3;
     z-index: -1;
 }
 
@@ -2985,7 +2980,7 @@ ul {
 ========================= */
 
 .object-v2 {
-    background-color: #D7C195;
+    background-color: #E8FAF3;
     padding-top: 65px;
     padding-bottom: 15px;
 }
@@ -3225,7 +3220,7 @@ ul {
 }
 
 .campaign-slider .owl-nav div:hover, .testimonial-slider-v2 .owl-nav div:hover, .blog-slider .owl-nav div:hover {
-    border-color: #EEAA21;
+    border-color: #1ECA8C;
 }
 
 .campaign-slider .owl-nav div img:last-child, .testimonial-slider-v2 .owl-nav div img:last-child, .blog-slider .owl-nav div img:last-child {
@@ -3286,7 +3281,7 @@ ul {
 }
 
 .volunteers-globe .single-volunteer a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .volunteers-globe .single-volunteer:nth-child(1) {
@@ -3669,11 +3664,11 @@ ul {
 }
 
 .footer-v2 .footer-right form input[type="email"]:focus {
-    border-color: #EEAA21;
+    border-color: #1ECA8C;
 }
 
 .footer-v2 .footer-middle ul li a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .footer-v2 .footer-right form button[type="submit"] {
@@ -3693,7 +3688,7 @@ ul {
 }
 
 .footer-v2 .footer-terms ul li a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 /* ====================
@@ -3709,7 +3704,7 @@ ul {
 }
 
 .hoperaiser-header-v3 .hoperaiser-menu nav ul li a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .hoperaiser-header-v3 .hoperaiser-serach:hover form input {
@@ -3725,7 +3720,7 @@ ul {
 }
 
 .hoperaiser-header-v3 .hoperaiser-top-user a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .hoperaiser-header-v3 .hoperaiser-serach, .hoperaiser-header-v3 .hoperaiser-top-user {
@@ -3737,7 +3732,7 @@ ul {
 }
 
 .hoperaiser-header-v3 .hoperaiser-top-contact p a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 /* ====================
@@ -3804,7 +3799,7 @@ ul {
     font-size: 24px;
     font-weight: 600;
     line-height: 28px;
-    color: #EEAA21;
+    color: #1ECA8C;
     margin-top: 20px;
     position: relative;
     z-index: 1;
@@ -3820,7 +3815,7 @@ ul {
     bottom: 2px;
     width: 100%;
     height: 1px;
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
     -webkit-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;
     transition: all 0.4s ease-in-out;
@@ -3953,7 +3948,7 @@ ul {
 }
 
 .single-donation-box-v3 .btn-donate:hover {
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
 }
 
 .single-donation-box-v3 .goal h5 {
@@ -4174,7 +4169,7 @@ ul {
 .testimonial-slider-v3 .owl-dots div span {
     width: 10px;
     height: 10px;
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
     display: inline-block;
     border-radius: 50%;
     position: absolute;
@@ -4295,7 +4290,7 @@ ul {
 }
 
 .event-time-v3 span {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .event-date-v3 span {
@@ -4324,7 +4319,7 @@ ul {
 }
 
 .event-v3-bottom a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .event-v3-bottom p {
@@ -4402,7 +4397,7 @@ ul {
 }
 
 .member-top-info a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .member-bottom-info a {
@@ -4504,7 +4499,7 @@ ul {
 .team-v3-slider .owl-dots div span {
     width: 10px;
     height: 10px;
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
     display: inline-block;
     border-radius: 50%;
     position: absolute;
@@ -4626,7 +4621,7 @@ ul {
 }
 
 .breadcrumb-wrap p a:hover, .breadcrumb-wrap p a:hover span {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .breadcrumb-wrap h3 {
@@ -4856,7 +4851,7 @@ ul {
 }
 
 .event-organizer-details ul li a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .event-organizer-details ul li span {
@@ -5134,7 +5129,7 @@ ul {
 }
 
 .form-input input:focus, .form-input textarea:focus {
-    border-color: #EEAA21;
+    border-color: #1ECA8C;
 }
 
 .reg-for-vol-wrapper form .btn-primary-c {
@@ -5312,7 +5307,7 @@ ul {
 }
 
 .gallery-wrapper-slider .owl-dot span {
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
     height: 10px;
     width: 10px;
     display: inline-block;
@@ -5394,8 +5389,8 @@ ul {
 }
 
 .pagination-v1 .pagination .page-item .page-link:hover, .pagination-v1 .pagination .page-item.active .page-link {
-    background-color: #EEAA21;
-    border-color: #EEAA21;
+    background-color: #1ECA8C;
+    border-color: #1ECA8C;
     color: #fff;
 }
 
@@ -5630,7 +5625,7 @@ ul {
 }
 
 .donate-tags-box a:hover {
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
     color: #fff;
 }
 
@@ -5681,7 +5676,7 @@ ul {
 }
 
 .txt-green {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .summary-donation {
@@ -5884,7 +5879,7 @@ ul {
 }
 
 .donate-tabs .nav-link.active {
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
 }
 
 .donate-tabs .nav {
@@ -5921,7 +5916,7 @@ ul {
 }
 
 .donation-ammount .btn-check:checked+.btn, .donation-ammount .btn-primary:hover {
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
 }
 
 .donation-ammount {
@@ -5961,7 +5956,7 @@ ul {
 }
 
 #ammount:focus, .tab-donation-info form .form-select:focus {
-    border: 1px solid #EEAA21;
+    border: 1px solid #1ECA8C;
 }
 
 .tab-donation-info form .form-select {
@@ -6153,11 +6148,11 @@ ul {
 }
 
 .mid-blog-category a span svg {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .mid-blog-author a:hover, .mid-blog-author a:hover span svg, .mid-blog-category a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 
@@ -6192,7 +6187,7 @@ ul {
     font-size: 24px;
     font-weight: 600;
     line-height: 30px;
-    color: #EEAA21;
+    color: #1ECA8C;
     text-decoration: none;
     -webkit-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;
@@ -6244,7 +6239,7 @@ ul {
 }
 
 .serach-bar form button {
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
     border: none;
     height: 94px;
     width: 100px;
@@ -6265,7 +6260,7 @@ ul {
 }
 
 .serach-bar form input:focus {
-    border: 1px solid #EEAA21;
+    border: 1px solid #1ECA8C;
 }
 
 .serach-bar form input::-webkit-input-placeholder {
@@ -6390,7 +6385,7 @@ ul {
 }
 
 .widget-blog-link a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 .categories-post {
     border: 1px solid #BBBBBB;
@@ -6429,7 +6424,7 @@ ul {
 }
 
 .categories-post-li a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .categories-post-li a:last-child {
@@ -6667,7 +6662,7 @@ ul {
 }
 
 .like-post:hover, .share-post-inside:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .leave-blog-comment h3 {
@@ -6692,7 +6687,7 @@ ul {
 }
 
 .leave-blog-comment form input:focus, .leave-blog-comment form textarea:focus {
-    border: 1px solid #EEAA21;
+    border: 1px solid #1ECA8C;
 }
 
 .leave-blog-comment form .blog-gp-form {
@@ -6769,8 +6764,8 @@ ul {
 .next-prev-blog .page-link:last-child .border-round {margin-right: 0;margin-left: 8px;}
 
 .next-prev-blog .page-link:hover, .next-prev-blog .page-link:hover .border-round {
-    color: #EEAA21;
-    border-color: #EEAA21;
+    color: #1ECA8C;
+    border-color: #1ECA8C;
 }
 
 .blog-rec-heading h2 {
@@ -6861,7 +6856,7 @@ ul {
 }
 
 .donate-by .container input:checked~.checkmark {
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
 }
 
 .donate-by .container .checkmark::before {
@@ -6900,7 +6895,7 @@ ul {
 }
 
 .form-wrap input:focus, .form-wrap select:focus, .form-wrap textarea:focus, .sign-in-rs form input:focus {
-    border: 1px solid #EEAA21;
+    border: 1px solid #1ECA8C;
 }
 
 .form-wrap input:last-child, .form-wrap select {
@@ -7080,7 +7075,7 @@ ul {
 }
 
 .social-network a:hover {
-    background-color: #EEAA21;
+    background-color: #1ECA8C;
 }
 
 /* ==================
@@ -7212,7 +7207,7 @@ ul {
 }
 
 .user-contact p a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .about-user {
@@ -7302,7 +7297,7 @@ ul {
 }
 
 .formv1 input:focus, .formv1 textarea:focus {
-    border: 1px solid #EEAA21;
+    border: 1px solid #1ECA8C;
 }
 
 .formv1 {
@@ -7368,7 +7363,7 @@ ul {
 }
 
 .infov1-lf svg {
-    color: #EEAA21;
+    color: #1ECA8C;
     width: 24px;
     height: 24px;
 }
@@ -7418,7 +7413,7 @@ ul {
 }
 
 .infov1-rs a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 
 .contact-detailv1 {
@@ -7472,7 +7467,7 @@ ul {
 }
 
 .contact-infov1.contact-infov2 .infov1-rs a:hover {
-    color: #EEAA21;
+    color: #1ECA8C;
 }
 .contact-us.contact-us-v2 {
     background-color: #E8E8E8;
